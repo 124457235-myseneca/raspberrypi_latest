@@ -12280,3 +12280,4 @@ hint: Updates were rejected because the tip of your current branch is behind
 hint: its remote counterpart. Integrate the remote changes (e.g.
 hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[INFO 2024-10-22_02:41:11] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-project2_ksa_tss-b4b4.py
