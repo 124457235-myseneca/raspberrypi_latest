@@ -12289,3 +12289,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 [INFO 2024-10-22_02:41:33] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-project2_ksa_tss-b4b4.py
 [INFO 2024-10-22_02:41:37] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-project2_ksa_tss-b4b4.py
 [INFO 2024-10-22_02:41:38] Visualization DAG in tml_system_step_7_kafka_visualization_dag-project2_ksa_tss-b4b4.py
+[INFO 2024-10-22_02:41:50] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-project2_ksa_tss-b4b4.py
