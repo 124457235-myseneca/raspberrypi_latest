@@ -12341,3 +12341,4 @@ Already up to date.
 [INFO 2024-10-23_00:11:20] TML Solution Studio: git push Status for project kasunaproject2tss-b4b4: Everything up-to-date
 [INFO 2024-10-23_00:22:07] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-kasunaproject2tss-b4b4.py
 [INFO 2024-10-23_00:22:09] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-kasunaproject2tss-b4b4.py
+[INFO 2024-10-23_00:22:11] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-kasunaproject2tss-b4b4.py
