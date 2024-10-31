@@ -12355,3 +12355,4 @@ Already up to date.
 [INFO 2024-10-31_14:23:59] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-kasunaproject2tss-b4b4.py
 [INFO 2024-10-31_14:24:02] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-kasunaproject2tss-b4b4.py
 [INFO 2024-10-31_14:24:04] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-kasunaproject2tss-b4b4.py
+[INFO 2024-10-31_14:24:06] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-kasunaproject2tss-b4b4.py
